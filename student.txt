@@ -1,0 +1,5 @@
+RollNo     Total-Questions  Total-Marks  Obtained-Marks(in each question)
+
+BSSE-23008         5        10             9 8 7 9 5 
+BSSE-23002         5        15             10 10 11 12 13 
+BSSE-23006         5        15              2 3 4 5 6 

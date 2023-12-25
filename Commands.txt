@@ -1,0 +1,25 @@
+
+=> For Cmd :
+    
+       • First change directory to the desired (cd)
+       • C:\Users\User\OneDrive\Desktop\PF All Quizzes>
+       • Compile Your Code with g++: Run the following command to compile your C++ code:
+
+                => g++ -o Quizz6.exe Quizz6.cpp
+
+       • Run the Executable: After successful compilation, run the executable:
+       
+                => Quizz6.exe
+
+
+=> For Cygwin :
+
+       • First change directory to the desired (cd)
+       • C:\Users\User\OneDrive\Desktop\PF All Quizzes>                 
+       • Compile Your Code with g++: Run the following command to compile your C++ code:
+                 
+                => g++ -o Quizz23 Quizz23.cpp
+
+       • Run the Executable: After successful compilation, run the executable:  
+       
+                => ./Quizz23       
